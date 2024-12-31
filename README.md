@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🌱 I’m currently learning C++ for physics simulations
 <!--
 **echo-webm/echo-webm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
